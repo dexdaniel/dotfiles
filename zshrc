@@ -7,6 +7,9 @@ ZSH_THEME="adamransom"
 # Disable autosetting terminal title.
 DISABLE_AUTO_TITLE="true"
 
+# Disable auto update
+DISABLE_AUTO_UPDATE="true"
+
 # Load plugins
 plugins=(git)
 
