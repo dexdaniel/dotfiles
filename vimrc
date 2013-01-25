@@ -11,7 +11,7 @@ let g:loaded_netrwPlugin = 1    " stop loading directory browser
 set hidden                      " allowed unsaved buffers to go into background
 
 " -- Display --
-set background=light
+set background=dark
 colorscheme solarized
 set guifont=Menlo\ Regular:h14
 set lsp=1                       " set a bit extra linespace for readability

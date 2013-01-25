@@ -6,6 +6,7 @@ ZSH_THEME="adamransom"
 
 # Disable autosetting terminal title.
 DISABLE_AUTO_TITLE="true"
+DISABLE_AUTO_UPDATE="true"
 
 # Disable auto update
 DISABLE_AUTO_UPDATE="true"
